@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a561dce-98fd-412d-908a-66abf2f064f8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wsites.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/bin/Debug/CodechefAug.exe" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/bin/Debug/CodechefAug.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/PRGift/bin/Debug/PRGift.exe" afterPath="$PROJECT_DIR$/../../../2014/August/PRGift/bin/Debug/PRGift.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/PRGift/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2014/August/PRGift/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.exe" afterPath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.o" afterPath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/stfm.exe" afterPath="$PROJECT_DIR$/../../../2015/February/stfm.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/stfm.o" afterPath="$PROJECT_DIR$/../../../2015/February/stfm.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/bin/Debug/subinc.exe" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/bin/Debug/subinc.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/bin/Debug/WDTBAM" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/bin/Debug/WDTBAM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/bin/Debug/WDTBAM.exe" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/bin/Debug/WDTBAM.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/bin/Debug/timeasr" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/bin/Debug/timeasr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/bin/Debug/timeasr.exe" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/bin/Debug/timeasr.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/bin/Debug/stack.exe" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/bin/Debug/stack.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/bin/Debug/banrob.exe" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/bin/Debug/banrob.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/bin/Debug/codecrck.exe" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/bin/Debug/codecrck.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/bin/Debug/donuts.exe" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/bin/Debug/donuts.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/a.out" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/bin/Debug/lighthse.exe" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/bin/Debug/lighthse.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/bin/Debug/rebxor.exe" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/bin/Debug/rebxor.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/sept_mstep/bin/Debug/sept_mstep.exe" afterPath="$PROJECT_DIR$/../../../2015/September/sept_mstep/bin/Debug/sept_mstep.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/sept_mstep/obj/Debug/main.o" afterPath="$PROJECT_DIR$/../../../2015/September/sept_mstep/obj/Debug/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/December/a.out" afterPath="$PROJECT_DIR$/../../../2016/December/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/November/a.out" afterPath="$PROJECT_DIR$/../../../2016/November/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/IdentityCertificateForm_V2.0.zip" afterPath="$PROJECT_DIR$/../../../2016/September/IdentityCertificateForm_V2.0.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/a.out" afterPath="$PROJECT_DIR$/../../../2016/September/a.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/Rotation.exe" afterPath="$PROJECT_DIR$/../../../Practice/Rotation.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/Rotation.o" afterPath="$PROJECT_DIR$/../../../Practice/Rotation.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.cbp" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.depend" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.layout" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/CodechefAug.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/CodechefAug/main.cpp" afterPath="$PROJECT_DIR$/../../../2014/August/CodechefAug/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/PRGift/PRGift.cbp" afterPath="$PROJECT_DIR$/../../../2014/August/PRGift/PRGift.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/PRGift/PRGift.depend" afterPath="$PROJECT_DIR$/../../../2014/August/PRGift/PRGift.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/August/PRGift/main.cpp" afterPath="$PROJECT_DIR$/../../../2014/August/PRGift/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/December/xor.cpp" afterPath="$PROJECT_DIR$/../../../2014/December/xor.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/December/xor2.cpp" afterPath="$PROJECT_DIR$/../../../2014/December/xor2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/January/oneking.cpp" afterPath="$PROJECT_DIR$/../../../2014/January/oneking.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/January/seavote.cpp" afterPath="$PROJECT_DIR$/../../../2014/January/seavote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/November/COOKOFF/brackets.cpp" afterPath="$PROJECT_DIR$/../../../2014/November/COOKOFF/brackets.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/chefgr.C" afterPath="$PROJECT_DIR$/../../../2014/October/Long/chefgr.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.C" afterPath="$PROJECT_DIR$/../../../2014/October/Long/fatchef.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/fatchef2.C" afterPath="$PROJECT_DIR$/../../../2014/October/Long/fatchef2.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/fatchef2.CPP" afterPath="$PROJECT_DIR$/../../../2014/October/Long/fatchef2.CPP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/prladdu.C" afterPath="$PROJECT_DIR$/../../../2014/October/Long/prladdu.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Long/prpotion.C" afterPath="$PROJECT_DIR$/../../../2014/October/Long/prpotion.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/Lunchtime/HEADBOB.C" afterPath="$PROJECT_DIR$/../../../2014/October/Lunchtime/HEADBOB.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/cookoff/anuwta.C" afterPath="$PROJECT_DIR$/../../../2014/October/cookoff/anuwta.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/October/cookoff/fuckhurry.C" afterPath="$PROJECT_DIR$/../../../2014/October/cookoff/fuckhurry.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/Insomnia/insomni1.C" afterPath="$PROJECT_DIR$/../../../2014/September/Insomnia/insomni1.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/sept1.C" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/sept1.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/sept2.C" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/sept2.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/test.C" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/test.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/test1.C" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLong/test1.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLunchtime/easyA.java" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLunchtime/easyA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2014/September/SeptemberLunchtime/easyB.java" afterPath="$PROJECT_DIR$/../../../2014/September/SeptemberLunchtime/easyB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/April/brokphon.cpp" afterPath="$PROJECT_DIR$/../../../2015/April/brokphon.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/April/cheflcm.cpp" afterPath="$PROJECT_DIR$/../../../2015/April/cheflcm.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/AugCookOff/twostr.py" afterPath="$PROJECT_DIR$/../../../2015/August/AugCookOff/twostr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/AugCookOff/xonuber.py" afterPath="$PROJECT_DIR$/../../../2015/August/AugCookOff/xonuber.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/AugCookOff/xornuber.cpp" afterPath="$PROJECT_DIR$/../../../2015/August/AugCookOff/xornuber.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/admag.py" afterPath="$PROJECT_DIR$/../../../2015/August/admag.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/aug3.py" afterPath="$PROJECT_DIR$/../../../2015/August/aug3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/cookmach.py" afterPath="$PROJECT_DIR$/../../../2015/August/cookmach.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/dcgame.py" afterPath="$PROJECT_DIR$/../../../2015/August/dcgame.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/grguy.py" afterPath="$PROJECT_DIR$/../../../2015/August/grguy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/wout.cpp" afterPath="$PROJECT_DIR$/../../../2015/August/wout.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/August/wout.py" afterPath="$PROJECT_DIR$/../../../2015/August/wout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/December/chefst.cpp" afterPath="$PROJECT_DIR$/../../../2015/December/chefst.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/December/chefst.py" afterPath="$PROJECT_DIR$/../../../2015/December/chefst.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/chefch.cpp" afterPath="$PROJECT_DIR$/../../../2015/February/chefch.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/chefeq.cpp" afterPath="$PROJECT_DIR$/../../../2015/February/chefeq.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/ranklist.cpp" afterPath="$PROJECT_DIR$/../../../2015/February/ranklist.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/February/stfm.cpp" afterPath="$PROJECT_DIR$/../../../2015/February/stfm.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/chcube.java" afterPath="$PROJECT_DIR$/../../../2015/July/chcube.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/cookoff/cop.cpp" afterPath="$PROJECT_DIR$/../../../2015/July/cookoff/cop.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/cookoff/sumpair.cpp" afterPath="$PROJECT_DIR$/../../../2015/July/cookoff/sumpair.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/egbobrd.cpp" afterPath="$PROJECT_DIR$/../../../2015/July/egbobrd.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/egbobrd.java" afterPath="$PROJECT_DIR$/../../../2015/July/egbobrd.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/lckyst.java" afterPath="$PROJECT_DIR$/../../../2015/July/lckyst.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/July/mchef.java" afterPath="$PROJECT_DIR$/../../../2015/July/mchef.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/MIsc/devjerry.cpp" afterPath="$PROJECT_DIR$/../../../2015/MIsc/devjerry.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/MIsc/prys2015.cpp" afterPath="$PROJECT_DIR$/../../../2015/MIsc/prys2015.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/March/cnote.cpp" afterPath="$PROJECT_DIR$/../../../2015/March/cnote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/Lunchtime/devugrap.cpp" afterPath="$PROJECT_DIR$/../../../2015/May/Lunchtime/devugrap.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/Lunchtime/mdist.cpp" afterPath="$PROJECT_DIR$/../../../2015/May/Lunchtime/mdist.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/chapd.cpp" afterPath="$PROJECT_DIR$/../../../2015/May/chapd.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/chapd.py" afterPath="$PROJECT_DIR$/../../../2015/May/chapd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/chefrp.cpp" afterPath="$PROJECT_DIR$/../../../2015/May/chefrp.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/cookoff/cfrtest.py" afterPath="$PROJECT_DIR$/../../../2015/May/cookoff/cfrtest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/May/setdiff.cpp" afterPath="$PROJECT_DIR$/../../../2015/May/setdiff.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/CookOff/prac.py" afterPath="$PROJECT_DIR$/../../../2015/October/CookOff/prac.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/CookOff/stem.py" afterPath="$PROJECT_DIR$/../../../2015/October/CookOff/stem.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/.name" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/KSPHERES.iml" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/KSPHERES.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/KSPHERES/kspheres.py" afterPath="$PROJECT_DIR$/../../../2015/October/KSPHERES/kspheres.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/input.txt" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.cbp" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.depend" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.layout" afterPath="$PROJECT_DIR$/../../../2015/October/SUBINC/subinc.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.cbp" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.depend" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.layout" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/WDTBAM.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/input.txt" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/WDTBAM/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/October/WDTBAM/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/ad2.py" afterPath="$PROJECT_DIR$/../../../2015/October/ad2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/adtri.cpp" afterPath="$PROJECT_DIR$/../../../2015/October/adtri.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/adtri.py" afterPath="$PROJECT_DIR$/../../../2015/October/adtri.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/gen4pr.py" afterPath="$PROJECT_DIR$/../../../2015/October/gen4pr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/ghatak.py" afterPath="$PROJECT_DIR$/../../../2015/October/ghatak.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/kspheres.py" afterPath="$PROJECT_DIR$/../../../2015/October/kspheres.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/out.txt" afterPath="$PROJECT_DIR$/../../../2015/October/out.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/pracadtri.py" afterPath="$PROJECT_DIR$/../../../2015/October/pracadtri.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/input.txt" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/main - Copy.cpp" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/main - Copy.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.cbp" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.depend" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.layout" afterPath="$PROJECT_DIR$/../../../2015/October/timeasr/timeasr.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng.py" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/frgtnlng.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/frgtnlng.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/frgtnlng.layout" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/frgtnlng.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/frgtnlng/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.depend" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.layout" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stack/stack.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stacks.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stacks.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/CookOff/stacks.py" afterPath="$PROJECT_DIR$/../../../2015/September/CookOff/stacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/LTIME/spalnum.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/LTIME/spalnum.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.depend" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.layout" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/banrob.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/banrob/output.txt" afterPath="$PROJECT_DIR$/../../../2015/September/banrob/output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.depend" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.layout" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/codecrck.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/codecrck/output.txt" afterPath="$PROJECT_DIR$/../../../2015/September/codecrck/output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.depend" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.layout" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/donuts.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/donuts/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/donuts/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.depend" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.layout" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/lighthse.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/lighthse/output.txt" afterPath="$PROJECT_DIR$/../../../2015/September/lighthse/output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/mstep.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/mstep.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/input.txt" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.depend" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.depend" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.layout" afterPath="$PROJECT_DIR$/../../../2015/September/rebxor/rebxor.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/sept_mstep/main.cpp" afterPath="$PROJECT_DIR$/../../../2015/September/sept_mstep/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/sept_mstep/sept_mstep.cbp" afterPath="$PROJECT_DIR$/../../../2015/September/sept_mstep/sept_mstep.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/September/sept_mstep/sept_mstep.layout" afterPath="$PROJECT_DIR$/../../../2015/September/sept_mstep/sept_mstep.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/june/JuneCookOff/utmopr.cpp" afterPath="$PROJECT_DIR$/../../../2015/june/JuneCookOff/utmopr.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/june/cbarg.cpp" afterPath="$PROJECT_DIR$/../../../2015/june/cbarg.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/june/chplgns.py" afterPath="$PROJECT_DIR$/../../../2015/june/chplgns.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2015/june/frndmtng.cpp" afterPath="$PROJECT_DIR$/../../../2015/june/frndmtng.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/April/long/bipin3.py" afterPath="$PROJECT_DIR$/../../../2016/April/long/bipin3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/April/long/chbllns.py" afterPath="$PROJECT_DIR$/../../../2016/April/long/chbllns.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/April/long/chefpath.py" afterPath="$PROJECT_DIR$/../../../2016/April/long/chefpath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/April/long/color.py" afterPath="$PROJECT_DIR$/../../../2016/April/long/color.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/December/anktrain.py" afterPath="$PROJECT_DIR$/../../../2016/December/anktrain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/December/input_anktrain.in" afterPath="$PROJECT_DIR$/../../../2016/December/input_anktrain.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/December/input_kirlab.in" afterPath="$PROJECT_DIR$/../../../2016/December/input_kirlab.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/December/kirlab.cpp" afterPath="$PROJECT_DIR$/../../../2016/December/kirlab.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/July/chefelec.py" afterPath="$PROJECT_DIR$/../../../2016/July/chefelec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/July/egrandr.py" afterPath="$PROJECT_DIR$/../../../2016/July/egrandr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/May/laddu.py" afterPath="$PROJECT_DIR$/../../../2016/May/laddu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/November/alextask.cpp" afterPath="$PROJECT_DIR$/../../../2016/November/alextask.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/AUTHOR_CHFNFRN.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/AUTHOR_CHFNFRN.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/chfnfrn.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/chfnfrn.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/divmac.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/divmac.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/divmac_input.txt" afterPath="$PROJECT_DIR$/../../../2016/September/divmac_input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/input_chfnfrn.in" afterPath="$PROJECT_DIR$/../../../2016/September/input_chfnfrn.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/lexopal.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/lexopal.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/logseq.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/logseq.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/rescalc.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/rescalc.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../2016/September/segtree.cpp" afterPath="$PROJECT_DIR$/../../../2016/September/segtree.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/CAOS1.cpp" afterPath="$PROJECT_DIR$/../../../Practice/CAOS1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/PlsLykMe.C" afterPath="$PROJECT_DIR$/../../../Practice/PlsLykMe.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/RETPO.C" afterPath="$PROJECT_DIR$/../../../Practice/RETPO.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/Rotation.C" afterPath="$PROJECT_DIR$/../../../Practice/Rotation.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/alexnumb.c" afterPath="$PROJECT_DIR$/../../../Practice/alexnumb.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/cheftr.c" afterPath="$PROJECT_DIR$/../../../Practice/cheftr.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/chefzot.C" afterPath="$PROJECT_DIR$/../../../Practice/chefzot.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/chfmax.c" afterPath="$PROJECT_DIR$/../../../Practice/chfmax.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/chrect.cpp" afterPath="$PROJECT_DIR$/../../../Practice/chrect.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/cielrcpt.c" afterPath="$PROJECT_DIR$/../../../Practice/cielrcpt.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/cielrcpt.cpp" afterPath="$PROJECT_DIR$/../../../Practice/cielrcpt.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/csub.C" afterPath="$PROJECT_DIR$/../../../Practice/csub.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/double.c" afterPath="$PROJECT_DIR$/../../../Practice/double.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/error.java" afterPath="$PROJECT_DIR$/../../../Practice/error.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/integ.cpp" afterPath="$PROJECT_DIR$/../../../Practice/integ.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/jeryfibo.c" afterPath="$PROJECT_DIR$/../../../Practice/jeryfibo.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/johny.c" afterPath="$PROJECT_DIR$/../../../Practice/johny.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/lcpesy.C" afterPath="$PROJECT_DIR$/../../../Practice/lcpesy.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/maandi.cpp" afterPath="$PROJECT_DIR$/../../../Practice/maandi.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/mchairs.c" afterPath="$PROJECT_DIR$/../../../Practice/mchairs.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/potatoes.C" afterPath="$PROJECT_DIR$/../../../Practice/potatoes.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/prosum.C" afterPath="$PROJECT_DIR$/../../../Practice/prosum.C" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Practice/tomjer.c" afterPath="$PROJECT_DIR$/../../../Practice/tomjer.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../codeforces/cf777/b.cpp" afterPath="$PROJECT_DIR$/../../../../codeforces/cf777/b.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wsites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wsites01.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsites.in" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wsites.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/wsites.in" />
+        <option value="$PROJECT_DIR$/src/wsites01.java" />
+        <option value="$PROJECT_DIR$/chefcode.in" />
+        <option value="$PROJECT_DIR$/src/chefcode.java" />
+        <option value="$PROJECT_DIR$/wsites.in" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites01.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../june/prmq" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.wsites01">
+    <configuration default="false" name="wsites01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="wsites01" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="wsites.in" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="wsites" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="wsites" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.wsites01" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.wsites01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a561dce-98fd-412d-908a-66abf2f064f8" name="Default" comment="" />
+      <created>1494890649606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494890649606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsites.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsites.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsites.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chefcode.java" />
+    <entry file="file://$PROJECT_DIR$/chefcode.in" />
+    <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chefcode.java" />
+    <entry file="file://$PROJECT_DIR$/chefcode.in" />
+    <entry file="file://$PROJECT_DIR$/wsites.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wsites01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

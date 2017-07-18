@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1442119324 source:c:\users\messi\google drive\competitive programming\codechef archives\2015\september\lighthse\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<cstdio>
+	<stdio.h>
+	<fstream>
+

@@ -1,0 +1,19 @@
+Top: 2 0 at position: 3
+Right: 2 0 at position: 3
+Bottom: 0 -2 at position: 5
+Left: 0 0 at position: 1
+1
+1 SE
+Top: 0 5 at position: 3
+Right: 5 0 at position: 1
+Bottom: 0 -5 at position: 4
+Left: -5 0 at position: 2
+2
+3 SE
+4 NW
+Top: 3 2 at position: 5
+Right: 3 -1 at position: 8
+Bottom: 1 -1 at position: 7
+Left: 1 2 at position: 6
+1
+6 SE

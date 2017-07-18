@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1442222283 source:c:\users\messi\google drive\competitive programming\codechef archives\2015\september\codecrck\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<stdio.h>
+

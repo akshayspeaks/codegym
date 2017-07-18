@@ -1,0 +1,41 @@
+1 4 7 8 
+For L R 2 4with start end 0 0
+After Exapansion
+0 0 0 0 0 0 0 1 
+alright yet again start and end 1 1 and L&R 2 4
+0 0 0 0 0 0 0 0 
+fin for 0
+0 0 0 0 0 1 1 1 
+For L R 3 6with start end 1 1
+After Exapansion
+0 0 0 0 0 1 1 1 
+alright yet again start and end 1 2 and L&R 3 6
+0 0 0 0 0 1 1 1 
+fin for 1
+0 0 0 0 0 1 3 3 
+For L R 3 6with start end 1 2
+After Exapansion
+0 0 0 0 0 3 3 3 
+alright yet again start and end 1 2 and L&R 3 6
+0 0 0 0 0 3 3 3 
+fin for 2
+0 0 0 0 0 3 5 5 
+For L R 3 8with start end 1 2
+After Exapansion
+0 0 0 0 0 5 5 5 
+alright yet again start and end 1 3 and L&R 3 8
+0 0 0 0 0 5 5 5 
+fin for 3
+0 0 0 0 0 5 6 7 
+For L R 3 8with start end 1 3
+After Exapansion
+0 0 0 0 0 6 6 7 
+alright yet again start and end 1 3 and L&R 3 8
+0 0 0 0 0 6 6 7 
+fin for 4
+0 0 0 0 0 6 7 9 
+1
+3
+3
+5
+9
